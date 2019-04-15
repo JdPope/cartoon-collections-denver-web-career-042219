@@ -3,7 +3,7 @@ def roll_call_dwarves(dwarves)
   dwarves.each_with_index do |name, index|
     roll_call.push("#{index}. #{name}")
 end
-return roll_call
+puts roll_call
 end
   
 
