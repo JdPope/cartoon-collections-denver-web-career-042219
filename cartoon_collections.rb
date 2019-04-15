@@ -14,8 +14,6 @@ def summon_captain_planet(planeteer_calls)
     calls.push(call.upcase + "!")
   end
   return calls
-    
-  
 end
 
 def long_planeteer_calls# code an argument here
