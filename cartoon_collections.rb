@@ -1,5 +1,7 @@
 def roll_call_dwarves(line)
   line.each do |name|
+    return name 
+end
   
 end
 
