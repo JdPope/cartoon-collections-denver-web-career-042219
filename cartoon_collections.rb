@@ -1,5 +1,5 @@
-def roll_call_dwarves(name)
-  name.each do 
+def roll_call_dwarves(line)
+  line.each do |name|
   
 end
 
